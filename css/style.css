@@ -908,7 +908,7 @@ header li {
 }
 .effect-fade.trans4 {
     opacity: 0;
-    transform: translate(0 , 350px);
+    transform: translate(0 , 300px);
     transition: all 0.8s;
 }
 .effect-fade.effect-scroll {
